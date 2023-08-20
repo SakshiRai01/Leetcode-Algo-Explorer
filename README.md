@@ -1,4 +1,3 @@
-# Easy_Medium_Hard
 # LeetCode Solutions
 
 ![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
@@ -19,4 +18,5 @@ Feel free to contribute by submitting pull requests. If you've solved a problem 
 ## Connect with Me
 If you have any questions or suggestions, feel free to reach out to me:
   
-LinkedIn: https://www.linkedin.com/in/sakshi-singh-91716b226/
+- GitHub: https://github.com/SakshiRai01
+- LinkedIn: https://www.linkedin.com/in/sakshi-singh-91716b226/
