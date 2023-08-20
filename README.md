@@ -18,6 +18,5 @@ Feel free to contribute by submitting pull requests. If you've solved a problem 
 
 ## Connect with Me
 If you have any questions or suggestions, feel free to reach out to me:
-
-GitHub: github.com/SakshiRai01
+  
 LinkedIn: https://www.linkedin.com/in/sakshi-singh-91716b226/
