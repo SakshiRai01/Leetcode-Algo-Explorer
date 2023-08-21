@@ -28,11 +28,10 @@ public:
     }
 
     int countPrimes(int n) {
-        int ans = 0;
         if( n<=2 )
         return 0;
 
-        ans = isPrime(n); 
+        int ans = isPrime(n); 
         return ans;
     }
 };
