@@ -4,8 +4,8 @@ public:
     {
         vector<bool> vec(a+1,true);
 
-        // vec[0] = false;
-        // vec[1] = false;
+        vec[0] = false;
+        vec[1] = false;
 
         for(int i=2 ; i*i <= a; i++)
         {
