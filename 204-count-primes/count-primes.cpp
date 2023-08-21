@@ -29,7 +29,7 @@ public:
 
     int countPrimes(int n) {
         int ans = 0;
-        if( n==0 || n==1 )
+        if( n<=2 )
         return 0;
 
         ans = isPrime(n); 
