@@ -1,11 +1,6 @@
 class Solution {
 public:
     int findComplement(int num) {
-        if(num == 1)
-        return 0;
-        if(num == 0 )
-        return 1;
-
         vector<int> v;
         while(num!=0)
         {
