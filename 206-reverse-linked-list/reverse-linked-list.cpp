@@ -17,10 +17,11 @@ public:
         ListNode* prev = NULL;
         ListNode* curr = head;
         ListNode* forw;
+
         while( curr != NULL )
         {
             forw = curr->next;
-            curr->next = prev;
+            curr -> next = prev;
             prev = curr;
             curr = forw;
         }
