@@ -16,7 +16,7 @@ public:
 
         ListNode* prev = NULL;
         ListNode* curr = head;
-        ListNode* forw = NULL;
+        ListNode* forw;
         while( curr != NULL )
         {
             forw = curr->next;
