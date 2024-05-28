@@ -10,7 +10,7 @@ public:
             {
                 l++;
             }
-            else if(s[i] == 'R')
+            else 
             {
                 r++;
             }
